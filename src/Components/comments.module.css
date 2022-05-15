@@ -1,0 +1,66 @@
+.comment {
+  
+  background: #fff;
+  width: 90%;
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+}
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  }
+
+.user {
+  display: flex;
+}
+.pic {
+  background-color: rgb(85, 218, 241);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.list {
+  position: absolute;
+  right: 10px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+  z-index: 50;
+  width: 150px;
+  top: 0;
+  right: 0;
+  }
+  .drop {
+    position: relative;
+  }
+  .dottt {
+    position: relative;
+    z-index: 55;
+    right: 5px;
+  }
+  .list div {
+    display: block;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .options div{
+    cursor: pointer;
+    display: block;
+  }
+  .options  h6 {
+    display: inline;
+  }  
+
+  .body .text{
+  margin-left: 10px;
+  }

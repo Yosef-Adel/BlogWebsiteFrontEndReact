@@ -1,0 +1,46 @@
+.container{
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+  border: #1e29a1 solid;
+  padding: 20px;
+  margin-bottom: 30px;
+  max-width: 500px;
+}
+
+
+.container label{ 
+  display: block;
+  text-align: left;
+  color: #0b0e2e;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.container span {
+  display: block;
+  text-align: left;
+}
+
+.title{
+  border-radius: 10px;
+  padding: 15px;
+  border: #1e29a1 solid;
+  width: 80%;
+}
+
+.paragraph {
+  border-radius: 10px;
+  padding: 15px;
+  border: #1e29a1 solid;
+  width: 80%;
+  height: 300px;
+}
+
+
+.container Button {
+ display: block;
+ margin: auto;
+ margin-top: 20px;
+}

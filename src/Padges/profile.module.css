@@ -1,0 +1,14 @@
+.UserPic{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(119, 240, 220);
+    border-radius: 50%;
+}
+
+.UserPic h1 {
+    font-size: 95px;
+}
+
+
